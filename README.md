@@ -1,3 +1,7 @@
+<div style="text-align:center;">
+  <img src="https://raw.githubusercontent.com/salman-ahm3d/salman-ahm3d/main/509848-Pixel-Art-Pixel.png" alt="Cool Pixel Art" width=60% height=60%>
+</div>
+
 ### Hi there 👋
 
 <!--
