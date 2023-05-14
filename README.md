@@ -22,13 +22,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Object Oriented Programming and InfoSec**
 
-- 📝 I write cybersecurity articles on [salmanahmed69890.medium.com](salmanahmed69890.medium.com)
+- 📝 I write cybersecurity articles on [Medium](salmanahmed69890.medium.com)
 
 - 💻 Interested in **Wordpress and Backend Web Development**
 
 - 💬 Ask me about **Linux, Python, Java, and C++**
 
-- 📫 How to reach me **linkedin.com/in/thesalmanahmed**
+- 📫 How to reach me [LinkedIn](linkedin.com/in/thesalmanahmed)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-ahm3d&label=Profile%20views&color=0e75b6&style=flat" alt="salman-ahm3d" /> </p>
