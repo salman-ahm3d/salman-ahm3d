@@ -31,8 +31,6 @@
 - 📫 How to reach me [LinkedIn](linkedin.com/in/thesalmanahmed)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-ahm3d&label=Profile%20views&color=0e75b6&style=flat" alt="salman-ahm3d" /> </p>
-
 <p align="left"> <a href="https://twitter.com/porcupine690" target="blank"><img src="https://img.shields.io/twitter/follow/porcupine690?logo=twitter&style=for-the-badge" alt="porcupine690" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
